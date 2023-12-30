@@ -1,0 +1,87 @@
+.form{
+    display: flex;
+    margin-right: 10%;
+}
+.btn{
+    border: 1px solid rgb(131, 122, 122);
+    display: flex;
+    margin-left: 20px;
+}
+.img{
+    margin-top: 20%;
+} 
+.d1{
+    margin-left: 20px;
+    border: 1px solid;
+    border-radius: 7px;
+}
+.btn1{
+    border: 1px;
+    border-radius: 12px;
+}
+.btn2{
+    border: 1px solid;
+    border-radius: 8px;
+    margin-left: 20px;
+}
+.img1{
+    border-radius: 5px;
+}
+.navbar-brand{
+    margin-left: 10%;
+    font-weight: 700;
+    font-size: xx-large;
+}
+.imgc{
+    margin: -20% 5% 60% 55%;
+    width: 28%;
+}
+
+.p1{
+    margin-top: 10%;
+    font-size: xx-large;
+}
+.f1{
+    font-size: xx-large;
+}
+.f2{
+    font-size: xx-large;
+}
+.f3{
+    font-size: xx-large;
+}
+.f4{
+    margin-top: -55%;
+    margin-left: 10%;
+    font-size: xx-large;
+}
+.card1{
+    margin-left: 12%;
+    margin-top: 3%;
+}
+.card2{
+    margin-left: 2%;
+    margin-top: 3%;
+}
+.card-img-top{
+    border-radius: 5px;
+}
+.card-text{
+    font-size: x-large;
+}
+.product{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 4%;
+    margin-bottom: 3%;
+}
+.navbar-nav{
+    margin-left: 12%;
+}
+.card{
+     margin-left: 6%;
+     margin-right: 5%;
+}
+.feature{
+    
+}
